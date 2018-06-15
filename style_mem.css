@@ -1,0 +1,35 @@
+header{
+  border-bottom: 1px solid black;
+  padding-bottom: 10
+}
+.mainbar button {
+    background-color: #FFFFFF; /* Green background */
+    border: 1px solid black; /* Green border */
+    color: black; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
+
+.menu_int button {
+  background-color: #00D8FF;
+  color: black;
+  border: 1px solid black;
+  padding: 8px 8px;
+  display: block;
+  width: 20%;
+}
+
+.menu_int button:hover{
+  background-color: #000000;
+  color: white;
+  border: 1px solid white;
+}
+
+.aside article{
+  float: left;
+  padding: 0px 12px;
+  width: 60%;
+  border-left: none;
+  height: 300px;
+}

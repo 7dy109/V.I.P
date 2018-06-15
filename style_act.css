@@ -1,0 +1,12 @@
+header{
+  border-bottom: 1px solid black;
+  padding-bottom: 10
+}
+.mainbar button {
+    background-color: #FFFFFF; /* Green background */
+    border: 1px solid black; /* Green border */
+    color: black; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+}
