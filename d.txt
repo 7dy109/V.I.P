@@ -1,0 +1,16 @@
+  <a href="http://"><button type="button" class="btn btn-primary btn-sm">동아리 소개</button></a>
+  <a href="http://"><button type="button" class="btn btn-primary btn-sm">활동 내용</button></a>
+  <a href="http://"><button type="button" class="btn btn-primary btn-sm">부원모집</button></a>
+  <a href="http://bibong.hs.kr"><button type="button" class="btn btn-primary btn-sm">비봉고등학교</button></a>
+
+
+
+    <div class="nav-scroller py-1 mb-2">
+      <nav class="nav d-flex justify-content-between">
+        <a class="p-2 text-muted" href="#"><a href="">동아리 소개</a></a>
+        <a class="p-2 text-muted" href="#"><a href="">활동 내용</a></a>
+        <a class="p-2 text-muted" href="#"><a href="">부원모집</a></a>
+        <a class="p-2 text-muted" href="#"><a href="http://bibong.hs.kr">비봉고등학교</a></a>
+      </nav>
+  
+  </div>
